@@ -1,0 +1,12 @@
+.titulos {
+    display: flex;
+    align-items: center;
+}
+.titulo {
+    color: white;
+}
+
+.login {
+    display: flex !important;
+    flex-direction: row-reverse;
+}
